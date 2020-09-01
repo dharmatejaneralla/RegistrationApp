@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="entername">Enter Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="c">C</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="cpp" >C++</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="android">Android</string>
+    <string name="display">Display</string>
+    <string-array name="departments">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>IT</item>
+    </string-array>
+</resources>
